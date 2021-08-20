@@ -14,6 +14,7 @@
         <module>demo-log-aop</module>
         <module>demo-exception-handler</module>
         <module>demo-orm-jdbctemplate</module>
+        <module>demo-orm-jpa</module>
     </modules>
     <packaging>pom</packaging>
 
