@@ -15,6 +15,7 @@
         <module>demo-exception-handler</module>
         <module>demo-orm-jdbctemplate</module>
         <module>demo-orm-jpa</module>
+        <module>demo-upload</module>
     </modules>
     <packaging>pom</packaging>
 
