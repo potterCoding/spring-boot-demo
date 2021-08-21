@@ -1,0 +1,8 @@
+spring:
+  cache:
+    ehcache:
+      config: classpath:ehcache.xml
+    type: ehcache
+logging:
+  level:
+    com.reminis: debug

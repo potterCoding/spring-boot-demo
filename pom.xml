@@ -16,6 +16,7 @@
         <module>demo-orm-jdbctemplate</module>
         <module>demo-orm-jpa</module>
         <module>demo-upload</module>
+        <module>demo-ehcache</module>
     </modules>
     <packaging>pom</packaging>
 
