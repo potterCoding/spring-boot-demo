@@ -17,6 +17,7 @@
         <module>demo-orm-jpa</module>
         <module>demo-upload</module>
         <module>demo-ehcache</module>
+        <module>demo-auth2.0</module>
     </modules>
     <packaging>pom</packaging>
 
