@@ -18,12 +18,14 @@
         <module>demo-upload</module>
         <module>demo-ehcache</module>
         <module>demo-auth2.0</module>
+        <module>demo-seata</module>
     </modules>
     <packaging>pom</packaging>
 
     <name>spring-boot-demo</name>
     <url>https://github.com/rename123/spring-boot-demo</url>
 
+    <!--依赖版本管理-->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
