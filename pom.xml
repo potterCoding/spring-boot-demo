@@ -19,6 +19,7 @@
         <module>demo-ehcache</module>
         <module>demo-auth2.0</module>
         <module>demo-seata</module>
+        <module>demo-rocket</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -37,6 +38,9 @@
         <hutool.version>5.4.5</hutool.version>
         <guava.version>29.0-jre</guava.version>
         <user.agent.version>1.20</user.agent.version>
+
+        <rocketmq.version>4.3.0</rocketmq.version>
+        <fastjson.version>1.2.47</fastjson.version>
     </properties>
 
     <repositories>
